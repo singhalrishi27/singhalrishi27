@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rishi Agrawal.
 - 👀 I’m interested in Tech, Software Innovation, iOS and macOS.
 - 🌱 I’m currently learning Swift and SwiftUI
-- 💞️ I’m looking to collaborate on Hackintool (A recreation of a old ObjC project in SwiftUI ).
 - 📫 Contat me @singhalrishi27 on Telegram, Instagram and Twitter.
 
 <!---
